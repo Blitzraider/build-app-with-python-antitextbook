@@ -79,6 +79,8 @@ True
 
 `27//7` divides 27 by 7 and returns an integer result.
 
+`27%7` divides 27 by 7 and returns an remainder result.
+
 ```python
 >>> 27/7 
 3.85714
